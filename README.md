@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fautoconf-archive.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fautoconf-archive?ref=badge_shield)
+
 Autoconf Archive
 ================
 
@@ -65,3 +67,7 @@ Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with the GNU Autoconf Archive. If not, see <https://www.gnu.org/licenses/>.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Fautoconf-archive.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Fautoconf-archive?ref=badge_large)
